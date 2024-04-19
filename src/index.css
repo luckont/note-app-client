@@ -1,0 +1,15 @@
+#root {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+:root {
+  --color-system: #4682B4;
+}
+.main{
+  width: 75%;
+  margin: 25px auto;
+}
+.background-color-system {
+  background-color: #4682B4;
+}
